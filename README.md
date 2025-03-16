@@ -14,3 +14,5 @@ Choose the version of WordPress you want, click the "download and extract" butto
 It will download, extract and display the button to access the WordPress installer. It's that simple.
 
 Did you like it? Please apply the stars.
+
+https://img001.prntscr.com/file/img001/o3Wg-YHXRv2Gnyip-qA-1w.png
