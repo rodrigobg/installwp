@@ -15,4 +15,4 @@ It will download, extract and display the button to access the WordPress install
 
 Did you like it? Please apply the stars.
 
-https://img001.prntscr.com/file/img001/o3Wg-YHXRv2Gnyip-qA-1w.png
+<img src="https://img001.prntscr.com/file/img001/o3Wg-YHXRv2Gnyip-qA-1w.png" />
